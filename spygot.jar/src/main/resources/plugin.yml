@@ -1,0 +1,9 @@
+main: io.th0rgal.spygot.SpygotPlugin
+name: Spygot
+version: ${projectVersion}
+author: Th0rgal
+api-version: "1.14"
+commands:
+  spygot:
+    description: Main command of Spygot
+    aliases: [ py, python ]
